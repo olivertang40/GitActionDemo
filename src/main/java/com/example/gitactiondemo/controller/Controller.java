@@ -21,8 +21,4 @@ public class Controller {
         return "Hello from another git2";
     }
 
-    @GetMapping("anotherGit3")
-    public String getAnotherMessage3(){
-        return "Hello from another git3";
-    }
 }
